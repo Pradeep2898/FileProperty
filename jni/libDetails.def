@@ -1,0 +1,4 @@
+EXPORTS
+    Java_Details_modifyACL @1
+    Java_Details_returndays @2
+    Java_Details_sayHello @3
